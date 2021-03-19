@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ElectricMotorAutomationApp</string>
+    <string name="Welcome">Welcome</string>
+    <string name="CreateNewAccount">Create New Account</string>
+    <string name="Register">Register</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="PhoneNumber">PhoneNumber</string>
+    <string name="Password">Password</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Water Level</string>
+    <string name="tab_text_2">Motor Status</string>
+    <string name="current_water_level">Water level</string>
+    <string name="MotorStatus">Motor Status</string>
+    <string name="current_motor_status">Motor Status</string>
+    <string name="Switch_Motor">Switch Motor</string>
+</resources>
