@@ -1,1 +1,1 @@
-ElectricMotorAutomation App developed using Kotlin,Model View View Model (MVVM) architecture 
+ElectricMotorAutomation App developed using Kotlin and Model View View Model (MVVM) architecture 
